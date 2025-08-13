@@ -1,0 +1,14 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+
+body{
+        
+        h1 {border: 2px solid rgb(0, 255, 200); text-align: center; color: red; margin-left: 150px; margin-right: 150px; margin-top: 20px; margin-bottom: 20px;}  
+        h3 {border-radius: 5px; border: 2px solid blue; text-align: initial; padding-left: 20px; padding-right: 2em; margin-left: 2em; margin-right: 22em ;}
+        p {text-align: initial; padding-left: 2px; padding-right: 0em; margin-left: 2em; margin-right: 22em ;}
+}
+ 
